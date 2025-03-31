@@ -1,1 +1,2 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yu-ffe&show_icons=true&theme=radical)
+[![Solved.ac
+yu00ffe](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
