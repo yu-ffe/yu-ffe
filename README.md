@@ -1,6 +1,6 @@
-<table width:"100%"> 
+<table width="1000px"> 
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="500px">
 
 ### 1. 인터넷에는 뭐든 있다
 - 필요한 것은 검색하면 다 나온다.
