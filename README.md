@@ -1,3 +1,5 @@
+<h2 align="center">👨‍💻 개발자 가이드라인</h2>
+
 <table> 
   <tr>
     <td valign="top" width="1000px">
@@ -49,5 +51,3 @@
     </td>
   </tr>
 </table>
-
-% 지우고
