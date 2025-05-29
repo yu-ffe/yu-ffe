@@ -1,5 +1,5 @@
 <table>
-  <tr><td>
+  <tr><td valign="top">
 
 ### 1. 인터넷에는 뭐든 있다
 - 필요한 것은 검색하면 다 나온다.
@@ -9,7 +9,7 @@
 </table>
 
 <table>
-  <tr><td>
+  <tr><td valign="top">
 
 ### 2. 검색.. 복붙..
 - **Ctrl + C, Ctrl + V** 활용하기 (복붙은 생명)
@@ -22,7 +22,7 @@
 </table>
 
 <table>
-  <tr><td>
+  <tr><td valign="top">
 
 ### 3. 아이템
 - **포션과 식량** (체력과 정신력 유지 필수)
@@ -32,7 +32,7 @@
 </table>
 
 <table>
-  <tr><td>
+  <tr><td valign="top">
 
 ### 4. 프로그래밍
 - 처음 시작하면 **C, C++ 먼저 배우기**
@@ -42,7 +42,7 @@
 </table>
 
 <table>
-  <tr><td>
+  <tr><td valign="top">
 
 ### 5. 언어 선택에 대한 고찰
 - 속도 빠른 C++, 자료 많은 Java?
@@ -52,7 +52,7 @@
 </table>
 
 <table>
-  <tr><td>
+  <tr><td valign="top">
 
 ### 6. 저장저장저장저장저장
 - **Ctrl + S 습관화** (저장, 저장, 저장)
@@ -61,7 +61,7 @@
 </table>
 
 <table>
-  <tr><td>
+  <tr><td valign="top">
 
 ### 7. 그냥 파이썬 최고
 - **그냥 파이썬 최고**
@@ -70,7 +70,7 @@
 </table>
 
 <table>
-  <tr><td>
+  <tr><td valign="top">
 
 ### 8. 수학
 - 수학은 코딩의 기초, **열심히 하자**
@@ -80,7 +80,7 @@
 </table>
 
 <table>
-  <tr><td>
+  <tr><td valign="top">
 
 ### 9. 속도에 대한 착각
 - 컴퓨터가 느리다고?  
@@ -90,7 +90,7 @@
 </table>
 
 <table>
-  <tr><td>
+  <tr><td valign="top">
 
 ### 10. 새벽 코딩의 장단점
 - **장점**: 새벽이다.
