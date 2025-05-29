@@ -1,11 +1,15 @@
 <h2 align="center">👨‍💻 개발자 가이드라인</h2>
 
-<details open>
-<summary>📌 1~5번 가이드 보기</summary>
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+
+<!-- 왼쪽: 1~5 -->
+<td width="50%" valign="top" style="padding-right: 10px;">
+
+<details open>
+<summary><strong>📌 1~5번 가이드 보기</strong></summary>
+
+<br>
 
 ### 1. 인터넷에는 뭐든 있다.
 - 필요한 것은 검색하면 다 나온다.
@@ -17,9 +21,6 @@
 - 현실의 개발은 **복붙과 검색**
 - 직접 해결하지 말고, 검색하기
 - 구글도 검색하면서 만들었다
-
-</td>
-<td width="50%" valign="top">
 
 ### 3. 아이템
 - **포션과 식량** (체력과 정신력 유지 필수)
@@ -33,20 +34,17 @@
 - 속도 빠른 C++, 자료 많은 Java?
 - 이럴 땐 한마디: **"굳이?"**
 
-</td>
-</tr>
-</table>
-
 </details>
 
----
+</td>
+
+<!-- 오른쪽: 6~10 -->
+<td width="50%" valign="top" style="padding-left: 10px;">
 
 <details open>
-<summary>📌 6~10번 가이드 보기</summary>
+<summary><strong>📌 6~10번 가이드 보기</strong></summary>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
 ### 6. 저장저장저장저장저장
 - **Ctrl + S 습관화** (저장, 저장, 저장)
@@ -58,9 +56,6 @@
 - 수학은 코딩의 기초, **열심히 하자**
 - 미래가 수학이다.
 
-</td>
-<td width="50%" valign="top">
-
 ### 9. 속도에 대한 착각
 - 컴퓨터가 느리다고?  
 - 우리보다 **몇만, 몇억, 몇조...** 훨씬 빠름
@@ -69,8 +64,9 @@
 - **장점**: 새벽이다.
 - **단점**: **진짜 새벽이다.**
 
+</details>
+
 </td>
+
 </tr>
 </table>
-
-</details>
