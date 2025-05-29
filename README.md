@@ -1,6 +1,7 @@
 <div style="display: flex; width: 100%; box-sizing: border-box;">
 
-<div style="flex: 1; padding-right: 16px;">
+<div style="flex: 1; padding: 16px; background-color: #1e1e2f; color: white; border-radius: 8px; margin-right: 8px;">
+
 
 ### 1. 인터넷에는 뭐든 있다
 - 필요한 것은 검색하면 다 나온다.
