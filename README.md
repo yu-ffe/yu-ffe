@@ -1,8 +1,7 @@
-<table width="100%" style="table-layout: fixed; border-collapse: collapse;">
-  <tr>
-    <!-- 왼쪽 50% 열 (1~5 항목) -->
-    <td style="width:50%; vertical-align: top; padding: 0; box-sizing: border-box;">
-      
+<div style="display: flex; width: 100%; box-sizing: border-box;">
+
+<div style="flex: 1; padding-right: 16px;">
+
 ### 1. 인터넷에는 뭐든 있다
 - 필요한 것은 검색하면 다 나온다.
 - 해결 방법이 없다고? 더 잘 찾아보자.
@@ -26,10 +25,10 @@
 - 속도 빠른 C++, 자료 많은 Java?
 - 이럴 땐 한마디: **"굳이?"**
 
-    </td>
-    <!-- 오른쪽 50% 열 (6~10 항목) -->
-    <td style="width:50%; vertical-align: top; padding: 0; box-sizing: border-box;">
-      
+</div>
+
+<div style="flex: 1; padding-left: 16px;">
+
 ### 6. 저장저장저장저장저장
 - **Ctrl + S 습관화** (저장, 저장, 저장)
 
@@ -48,6 +47,5 @@
 - **장점**: 새벽이다.
 - **단점**: **진짜 새벽이다.**
 
-    </td>
-  </tr>
-</table>
+</div>
+</div>
