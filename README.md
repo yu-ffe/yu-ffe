@@ -1,7 +1,6 @@
-<div style="display: flex; width: 100%; box-sizing: border-box;">
-
-<div style="flex: 1; padding: 16px; background-color: #1e1e2f; color: white; border-radius: 8px; margin-right: 8px;">
-
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 ### 1. 인터넷에는 뭐든 있다
 - 필요한 것은 검색하면 다 나온다.
@@ -26,9 +25,8 @@
 - 속도 빠른 C++, 자료 많은 Java?
 - 이럴 땐 한마디: **"굳이?"**
 
-</div>
-
-<div style="flex: 1; padding-left: 16px;">
+    </td>
+    <td valign="top" width="50%">
 
 ### 6. 저장저장저장저장저장
 - **Ctrl + S 습관화** (저장, 저장, 저장)
@@ -48,5 +46,6 @@
 - **장점**: 새벽이다.
 - **단점**: **진짜 새벽이다.**
 
-</div>
-</div>
+    </td>
+  </tr>
+</table>
